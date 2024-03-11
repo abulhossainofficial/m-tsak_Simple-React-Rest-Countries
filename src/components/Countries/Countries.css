@@ -1,0 +1,14 @@
+.country-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 11px;
+}
+
+.visited {
+  background-color: lightslategray;
+  color: white;
+}
+
+.flasg-container img {
+  width: 60px;
+}

@@ -1,0 +1,10 @@
+.country {
+  border: 2px solid yellowgreen;
+  margin: 15px;
+  padding: 25px;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
